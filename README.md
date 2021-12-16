@@ -1,4 +1,7 @@
 # RadicaleSpeeltuin
+
+## Dev Notes : Package isnt included in the repo because the file is too big, so downloading the project won't be possilbe
+
 Welkom bij het project radicale speeltuin
 <br>
 hierin zal ik al mijn code zetten die ik in dit project gebruik
