@@ -1,6 +1,6 @@
 # RadicaleSpeeltuin
 
-## Dev Notes : Package isnt included in the repo because the file is too big, so downloading the project won't be possilbe
+## Dev Notes : Package isn't included in the repo because the file is too big, so downloading the project won't be possilbe
 
 Welkom bij het project radicale speeltuin
 <br>
